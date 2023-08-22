@@ -7,7 +7,7 @@ Berikut Hasil Slicing dari Dashboard Aruna
 - Bila CDN dihilangkan maka utility pada modal beberapa tidak muncul di tampilan.
 
 ### Tampilan Menu Dashboard
-![Dashboard Menu](/prototype/ss1.png)
-![Dashboard Menu](/prototype/ss2.png)
-![Dashboard Menu](/prototype/ss3.png)
-![Dashboard Menu](/prototype/ss4.png)
+![Dashboard Menu](img/prototype/ss1.png)
+![Dashboard Menu](img/prototype/ss2.png)
+![Dashboard Menu](img/prototype/ss3.png)
+![Dashboard Menu](img/prototype/ss4.png)
